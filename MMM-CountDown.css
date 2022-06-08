@@ -23,6 +23,7 @@
 h1 {
   font-weight: normal;
   font-size:24px;
+  color: #efefef;
 }
 
 li {
@@ -30,13 +31,13 @@ li {
   font-size: 20px;
   list-style-type: none;
   padding: 1em 1em 0 1em;
-  color: white;
+  color: #efefef;
   margin: 2px;
   background-color: rgba(255,255,255,.2);
 }
 
 li span {
   display: block;
-  color: white;
+  color: #efefef;
   font-size: 20px;
 }
